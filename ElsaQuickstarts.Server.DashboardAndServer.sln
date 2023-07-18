@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElsaQuickstarts.Server.DashboardAndServer", "ElsaQuickstarts.Server.DashboardAndServer\ElsaQuickstarts.Server.DashboardAndServer.csproj", "{AC25419B-F493-4F9C-A9B6-24E5EAB6F107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC25419B-F493-4F9C-A9B6-24E5EAB6F107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC25419B-F493-4F9C-A9B6-24E5EAB6F107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC25419B-F493-4F9C-A9B6-24E5EAB6F107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC25419B-F493-4F9C-A9B6-24E5EAB6F107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD1DD04B-0D3D-4DBB-933F-7E768FD4366C}
+	EndGlobalSection
+EndGlobal
